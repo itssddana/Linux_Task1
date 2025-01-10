@@ -1,5 +1,5 @@
 ### Linux_Task1
-# Understand the file permissions and create a flowchart for it. Then, apply the chmod command in a Python file to make the permissions rwxrwxr-x.
+## Understand the file permissions and create a flowchart for it. Then, apply the chmod command in a Python file to make the permissions rwxrwxr-x.
 
 in this task, I understood the Linux file permissions.
 # In Linux systems, file permissions are broken into three groups:
